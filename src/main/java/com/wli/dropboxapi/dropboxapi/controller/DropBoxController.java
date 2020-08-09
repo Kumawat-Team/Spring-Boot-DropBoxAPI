@@ -70,4 +70,9 @@ public class DropBoxController {
 		return true;
 	}
 
+	@GetMapping("/test")
+	String listOfFiless() {
+		return "test";
+	}
+
 }
