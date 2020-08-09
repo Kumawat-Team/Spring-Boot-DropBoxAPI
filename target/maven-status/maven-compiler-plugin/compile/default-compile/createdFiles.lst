@@ -1,0 +1,11 @@
+com\wli\dropboxapi\dropboxapi\serviceImpl\DropBoxServicesImpl.class
+com\wli\dropboxapi\dropboxapi\model\ListOfFilesDropBox.class
+com\wli\dropboxapi\dropboxapi\model\DeleteBatchDTO.class
+com\wli\dropboxapi\dropboxapi\model\FileDTO.class
+com\wli\dropboxapi\dropboxapi\config\DropCall.class
+com\wli\dropboxapi\dropboxapi\services\DropBoxServices.class
+com\wli\dropboxapi\dropboxapi\controller\DropBoxController.class
+com\wli\dropboxapi\dropboxapi\DropboxapiApplication.class
+com\wli\dropboxapi\dropboxapi\config\Config.class
+com\wli\dropboxapi\dropboxapi\config\Utils.class
+com\wli\dropboxapi\dropboxapi\model\FileMultipleDTO.class
